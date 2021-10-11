@@ -1,0 +1,61 @@
+.triangulo-der
+  padding: 2rem
+  position: relative
+  &::after
+    content: ""
+    position: absolute
+    display: block
+    z-index: 2
+    right: 0%
+    top: 50%
+    bottom: 0%
+    transform: translateX(100%) translateY(-50%)
+    width: 0%
+    height: 0%
+    border-left: 50px solid #3E2EA6
+    border-top: 40px solid transparent
+    border-bottom: 40px solid transparent
+
+.body-cajon
+  display: block
+  background-color: #0F0140
+  position: relative
+  margin-left: 50px
+  padding: 20px
+  padding-left: 60px
+  white-space: normal
+  text-align: left
+  border-radius: 50px
+  .body-img
+    width: 89px
+    position: absolute
+    display: block
+    left: 0%
+    top: 50%
+    transform: translateX(-50%) translateY(-50%)
+  .body-text
+    color: #fff
+
+  
+.tarjeta-avatar
+  padding-top: 30px
+.tarjeta-avatar .tarjeta
+  width: 100%
+  padding-top: 0px !important
+
+@media screen and ( max-width: 992px)
+  .triangulo-der
+    padding-left: 2rem
+    &::after
+      padding: 0
+      right: 50%
+      top: 0
+      bottom: 0%
+      transform: translateX(50%) translateY(-50%)
+      top: calc(100% + 20px)
+      width: 0
+      height: 0
+      border-left: 50px solid transparent
+      border-right: 50px solid transparent
+      border-top: 40px solid #3E2EA6
+      border-bottom: 0
