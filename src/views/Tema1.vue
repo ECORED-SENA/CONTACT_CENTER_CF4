@@ -36,11 +36,11 @@
               img.mx-auto(src='@/assets/curso/tema1/img2.png' alt='Imagen ambiental' style='')
           
     .row.justify-content-center.mb-4
-      .col-10.col-lg-5.mb-4.mb-md-0
+      .col-9.col-lg-5.mb-4.mb-md-0
         figure(data-aos="fade-right")
           img.mx-auto(src='@/assets/curso/tema1/img3.svg' alt='Imagen ambiental' style='width: 434px;')
       .col-lg-7.mb-4.mb-md-0
-        p.mb-4 Es claro que si una empresa u organización no tiene bien definida su política de atención al cliente, seguramente su camino al cumplimiento de objetivos será mucho más difícil.
+        p.mb-4 En otras palabras, lo que se busca con el servicio al cliente es superar permanentemente las expectativas que el cliente tiene respecto al producto o servicio y que, en muchas ocasiones, cuando no se logra con las características y las condiciones del mismo, se obtiene generando una muy buena atención en donde el cliente logre ver la diferenciación frente:
         .row.mb-5(data-aos="flip-left")
           .col-auto
             .body-cajon
@@ -75,13 +75,51 @@
             .p-4.pt-5
               p.text-center El mesero toma mal su orden.
               
-      .col-md-4.col-lg-4.mb-5.mb-lg-0(data-aos='flip-left')
+      .col-md-4.col-lg-4.mb-0.mb-lg-0(data-aos='flip-left')
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/icon5.svg' alt='AvatarTop' style='width: 62px;')
           .tarjeta.color-acento-acontenido.d-flex.justify-content-center.align-items-end(style='background-color: #FCECDF')
             .p-4.pt-5
               p.mb-md-0.text-center Cuando le sirven le indican que lo que había pedido ya no está disponible.
               
+    p.mb-5 Entonces, ¿qué va a pasar con ese cliente? Muy seguramente su decisión será la de no volver a frecuentar el restaurante y no tendría el menor reparo de asistir, quizás, a uno más caro pero donde se sienta bien atendido. 
+
+    .row.justify-content-center.mb-0
+      .col-lg-12
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.pe-md-0.mb-5
+          .bloque-texto-g__img( data-aos='fade-right')
+          .bloque-texto-g__texto.p-5(data-aos='fade-left')
+            p.mb-4 Se concluye, entonces, que: el servicio al cliente está enfocado en ir más allá en cada una de las interacciones con cliente independiente del canal por donde se realice (presencial, teléfono, medios electrónicos), lo verdaderamente importante es que el asesor de servicio logre generar en el cliente experiencias estelares para que sienta mayor empoderamiento con la marca y con el producto y se convierta en un cliente fiel a la compañía.
+
+
+    p.mb-4 Dentro de las características más destacas del servicio al cliente se encuentran las siguientes:
+
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        AcordionA.mb-4.mb-md-0(tipo="b" clase-tarjeta="tarjeta tarjeta--morada")
+          .row(titulo="Intangibilidad")
+            .col-auto.mb-4.mb-md-0
+              p Hace referencia a que los servicios no se pueden tocar, no tienen olor, color textura o forma, por ejemplo: el servicio de salud, un seguro de vida, los servicios que prestan los Contact Center al suministrar información, los domicilios, el transporte, entre otros.
+            
+          .row(titulo="Heterogeneidad")
+            .col-auto.mb-4.mb-md-0
+              p Es la característica opuesta a la homogeneidad que se encuentra en los productos tangibles al ser producidos en serie, ya que en los servicios es diferente en cada prestación debido a que son personas las que los prestan y personas las que los reciben; por ejemplo, el servicio odontológico es diferente de un profesional a otro, si comparamos los servicios que suministran dos empresas de internet se encontrarán diferencia, en cuanto a calidad, precios, paquetes, etc.
+            
+          .row(titulo="Inseparabilidad")
+            .col-auto.mb-4.mb-md-0
+              p Cuando se habla de productos tangibles estos se pueden producir, comercializar y usar en tiempos diferentes; en cambio, los servicios se producen y se utilizan en el mismo momento, por ejemplo, el servicio médico, la utilización del transporte, etc.
+            
+          .row(titulo="Imperdurabilidad")
+            .col-auto.mb-4.mb-md-0
+              p Los productos físicos se pueden guardar en un inventario, pero los servicios no.  Si una persona que ofrece un tipo de servicio como profesional, tecnólogo o de cualquier tipo, no presta sus servicios durante varias horas o días esos servicios se pierden, ya que no es posible guardarlos para después.
+            
+      .col-10.col-lg-4.align-self-center
+        figure(data-aos='fade-left')
+          img.mx-auto(src='@/assets/curso/tema1/img5.png' alt='imagen ambiental' style='width: 440px;')
+        
+
+
+
 
 
 </template>

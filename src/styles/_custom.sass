@@ -36,12 +36,113 @@
   .body-text
     color: #fff
 
-  
 .tarjeta-avatar
   padding-top: 30px
 .tarjeta-avatar .tarjeta
   width: 100%
   padding-top: 0px !important
+
+.bloque-texto-g.color-secundario
+  background-color: white
+
+.bloque-texto-g
+  justify-content: flex-end
+
+.bloque-texto-g__img
+  left: 0%
+  width: 60%
+  background-image: url('../assets/curso/tema1/img4.png')
+  background-repeat: no-repeat
+  background-position: center
+
+.bloque-texto-g__texto
+  width: 60%
+  //476px opcion 2
+  background-color: #FEFAF7
+  filter: drop-shadow(2px 4px 6px grey)
+  text-align: start
+  border-top-right-radius: 20px
+  border-bottom-left-radius: 20px
+
+/////----cajon tema2----inicio////
+.bloque-cajon
+  position: relative
+  display: flex
+  justify-content: center
+  padding-left: 3rem
+  padding-right: 3rem
+  padding-top: 6rem
+  padding-bottom: 5rem
+
+.bloque-cajon__img
+  position: absolute
+  width: 100%
+  top: 0
+  left: 0
+  bottom: 0
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+
+.bloque-cajon__texto
+  top: 0
+  bottom: 0
+  transform: translateX(0) translateY(100%)
+  position: relative
+  width: 80%
+  background-color: #FEFAF7
+  filter: drop-shadow(2px 4px 6px grey)
+  text-align: center
+  border-top-right-radius: 20px
+  border-bottom-left-radius: 20px
+/////----end cajon tema2 inicio------////
+
+.tarjeta--morada
+  background-image: url('../assets/curso/tema1/acordion-fondo1.svg')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+.tarjeta--clara
+  background-color: #FCECDF
+  padding-right: 0 !important
+.tarjeta--arco
+  background-image: url('../assets/curso/tema2/acordion-fondo.svg')
+  background-position: right bottom
+  background-repeat: no-repeat
+
+.fondo1
+  background: url('../assets/curso/tema2/fondo1.svg')
+  background-position: bottom
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+.fondo2
+  background: url('../assets/curso/tema2/fondo2.svg')
+  background-position: left center
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+.acordion__contenido__item
+  padding-bottom: 0 !important
+
+.cajon.color-acento-contenido
+  background-color: #FCECDF
+
+.tarjeta--slider
+  background: url('../assets/curso/tema3/fondo-slider.svg')
+  background-position: center
+  background-size: auto
+  background-repeat: no-repeat
+
+.slyder-a__bullets
+  bottom: 0
+.slyder-a__btn--sigt
+  opacity: 0.4
+  right: -20px
+.slyder-a__btn--atrs
+  opacity: 0.4
+  left: -20px
 
 @media screen and ( max-width: 992px)
   .triangulo-der
@@ -59,3 +160,30 @@
       border-right: 50px solid transparent
       border-top: 40px solid #3E2EA6
       border-bottom: 0
+
+  .bloque-texto-g__texto
+    width: auto
+  .bloque-texto-g__img
+    width: 100%
+    left: 0
+  .fondo1, .fondo2
+    margin-inline: -1.4rem
+
+  .bloque-cajon
+    padding-top: 40% !important
+    padding-left: 3rem
+    padding-right: 3rem
+    padding-bottom: 3rem
+    overflow: hidden
+
+  .bloque-cajon__texto
+    width: 100%
+  .tarjeta--slider
+    background-size: cover
+
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    top: 102% !important
+
+@media screen and ( min-width: 992px)
+  .color-row
+    background-color: #DAD6F7
