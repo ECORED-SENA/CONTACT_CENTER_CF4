@@ -10,7 +10,7 @@
     
     .row.justify-content-center.fondo1.mb-4
       .col-md-12.px-md-5
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.mb-5.mb-lg-5
           .col-lg-12.mb-4
             .bloque-cajon
               .bloque-cajon__img(
