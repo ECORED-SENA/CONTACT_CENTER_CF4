@@ -111,8 +111,168 @@
             figure
               img(src='@/assets/curso/tema3/img8.png', alt='imagen ambiental' style='width:430px')
               
+    p.mb-4 La siguiente figura presenta un ejemplo de cuatro (4) tipos de clientes y qué se debe hacer en la atención o venta, tomando en cuenta sus características.
+    .titulo-sexto.color-acento-contenido
+      p.mb-0 Tipos de clientes y qué se debe hacer
 
-
+    .row.justify-content-center.fondo-color.mb-5
+      .col-md-11.px.md-5.mt-5
+        .row.justify-content-center
+              
+          .col-lg-6.mb-4.mb-lg-0.align-self-center(data-aos="flip-right")
+            .row.justify-content-center
+              .col-10.col-lg-auto
+                h5.text-center.mb-3 Quejoso
+                figure
+                  img.mx-auto(src='@/assets/curso/tema3/img9.svg', alt='imagen ambiental' style='width:424px')
+            .row.justify-content-center
+              .col-lg-12
+                .p-4(style='background-color: #FCECDF')
+                  h5.mb-4 Características
+                  ul.lista-ul.mb-5
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Se preocupa por lo que los demás opinan de sus decisiones
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Tiende a poner pretextos por cualquier cosa
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Encuentra algún error en cada servicio
+                    
+                  h5.mb-4 ¿Qué debes hacer?
+                  ol.lista-ol
+                    li 
+                      span 1. 
+                      | Siempre escucha, discúlpate y explica después
+                    li 
+                      span 2. 
+                      | Soluciona el problema de inmediato 
+                    li 
+                      span 3. 
+                      | Explora la necesidad del cliente haciendo preguntas precisas y amables 
+                    li 
+                      span 4. 
+                      | Agradece porque expresó su molestia
+                  
+          .col-lg-6.align-self-center(data-aos="flip-left")
+            .row.justify-content-center
+              .col-10.col-lg-auto
+                h5.text-center.mb-3 Sabelotodo
+                figure
+                  img.mx-auto(src='@/assets/curso/tema3/img10.svg', alt='imagen ambiental' style='width:424px')
+            .row.justify-content-center
+              .col-lg-12
+                .p-4.pb-lg-5(style='background-color: #FCECDF')
+                  h5.mb-4 Características
+                  ul.lista-ul.mb-4
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Es lógico
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Conservador
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Se preocupa por los detalles 
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Le gusta conocer lo nuevo
+                    
+                  h5.mb-4 ¿Qué debes hacer?
+                  ol.lista-ol
+                    li 
+                      span 1. 
+                      |  Sé paciente y escucha 
+                    li 
+                      span 2. 
+                      |  Demuéstrale confianza y respeto
+                    li 
+                      span 3. 
+                      | Deja que el cliente dirija la conversación
+                    
+    .row.justify-content-center.fondo-color.mb-5
+      .col-md-11.px.md-5.mt-5
+        .row.justify-content-center
+              
+          .col-lg-6.mb-4.mb-lg-0.align-self-center(data-aos="flip-right")
+            .row.justify-content-center
+              .col-10.col-lg-auto
+                h5.text-center.mb-3 Indeciso
+                figure
+                  img.mx-auto(src='@/assets/curso/tema3/img11.svg', alt='imagen ambiental' style='width:424px')
+            .row.justify-content-center
+              .col-lg-12
+                .p-4(style='background-color: #FCECDF')
+                  h5.mb-4 Características
+                  ul.lista-ul.mb-4
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Se preocupa por lo que los demás dicen
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Quiere que tomen sus decisiones
+                    
+                    
+                  h5.mb-4 ¿Qué debes hacer?
+                  ol.lista-ol.mb-5
+                    li 
+                      span 1. 
+                      | Contesta todas sus dudas y objeciones 
+                    li 
+                      span 2. 
+                      | Gana su confianza y sepa que cuenta contigo
+                    li 
+                      span 3. 
+                      | Deja que el cliente pruebe el producto y luego evalúa que le pareció
+                    li 
+                      span 4. 
+                      | Evita dar opciones y hacer preguntas abiertas
+                  
+                    li 
+                      span 4. 
+                      | Tomará en cuenta tu opinión si inicias con: “Mi recomendación es…”
+                  
+          .col-lg-6.align-self-center(data-aos="flip-left")
+            .row.justify-content-center
+              .col-10.col-lg-auto
+                h5.text-center.mb-3 Tímido
+                figure
+                  img.mx-auto(src='@/assets/curso/tema3/img12.svg', alt='imagen ambiental' style='width:424px')
+            .row.justify-content-center
+              .col-lg-12
+                .p-4.pb-lg-5(style='background-color: #FCECDF')
+                  h5.mb-4 Características
+                  ul.lista-ul.mb-4
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Cliente difícil
+                    li 
+                      i.far.fa-circle(style='font-size: 10px; color: #3E2EA6;')
+                      p.mb-0 Quiere que tomen las decisiones por él
+                    
+                    
+                  h5.mb-4 ¿Qué debes hacer?
+                  ol.lista-ol
+                    li 
+                      span 1. 
+                      |  Escucha atentamente al cliente y en la conversación identifica sus gustos y necesidades
+                    li 
+                      span 2. 
+                      |  Gánale una sonrisa
+                    li 
+                      span 3. 
+                      | Involúcralo
+                    li 
+                      span 4. 
+                      | Muéstrate  dispuesto a ayudarle en todo lo que necesite
+                    li 
+                      span 5.
+                      | Ayúdalo a expresar sus necesidades sin presionarlo
+                      
+        figcaption Nota. Tomada de Fundación Carlos Slim. https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=3402&load=3447&brandID=capacitate
+                    
+    p De acuerdo con la figura anterior, se debe analizar: ¿qué otros aspectos se tendría en cuenta en el momento de interactuar con cada uno de esos tipos de clientes?
 
 
 </template>
