@@ -10,7 +10,6 @@
     
     p.mb-4 Los requerimientos de los usuarios que se comunican con los centros de contacto ameritan determinar un proceso de atención y sobre todo ejecutarlo.
     p.mb-5 Estos requerimientos se encuentran clasificados de la siguiente manera:
-
     .row.fondo-slidert4.mb-5
       .col-lg-12.px-md-0
           #carouselExampleIndicators.carousel.slide.py-5(data-bs-ride='carousel' style="background-color:#0F0140")
@@ -25,6 +24,7 @@
                 .row.justify-content-center
                   .col-lg-12
                     .row.py-5
+
                       .col-lg-4
                         .tarjeta--boton.color-primario.p-4
                           .row.justify-content-start.mb-3

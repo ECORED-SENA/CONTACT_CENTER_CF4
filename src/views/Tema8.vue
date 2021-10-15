@@ -89,7 +89,7 @@
             p.text-white.mb-4 Este indicador corresponde al resultado obtenido por el asesor al momento de ser monitoreado. Esta evaluación se realiza a través de un instrumento de evaluación denominado “Matriz de calidad” que mide las habilidades comunicativas, la actitud del asesor con el cliente y el manejo y la solución brindada al cliente; el rango de valoración es de 100% y contempla errores fatales o críticos, de acuerdo con los estándares de calidad.
             .row
               .col-auto
-                a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('/downloads/Matriz_calidad_SAC.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto

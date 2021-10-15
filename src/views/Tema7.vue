@@ -18,7 +18,7 @@
             p.mb-0 Cuando se trabaja o labora en operaciones de Contact Center BPO, es fácil notar cómo estas operaciones manejan su propia terminología y vocabulario que a simple vista no son fáciles de comprender; por ello se invita a conocer el vocabulario más utilizado en la industria.
         .row.justify-content-end
           .col-auto
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Terminologia.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
