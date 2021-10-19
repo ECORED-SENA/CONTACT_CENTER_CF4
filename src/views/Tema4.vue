@@ -10,6 +10,25 @@
     
     p.mb-4 Los requerimientos de los usuarios que se comunican con los centros de contacto ameritan determinar un proceso de atención y sobre todo ejecutarlo.
     p.mb-5 Estos requerimientos se encuentran clasificados de la siguiente manera:
+    
+    
+    //h1.mb-4 carousel prueba
+      .carousel-custom
+        .carousel-custom__container
+            
+          .carousel-custom__item
+            p.p-4  prueba
+            
+          .carousel-custom__item
+            p.p-4  prueba
+                            
+          .carousel-custom__item
+            p.p-4  prueba
+                            
+          
+
+    
+    
     .row.fondo-slidert4.mb-5
       .col-lg-12.px-md-0
           #carouselExampleIndicators.carousel.slide.py-5(data-bs-ride='carousel' style="background-color:#0F0140")
@@ -18,7 +37,9 @@
               button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='1' aria-label='Slide 2')
               button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='2' aria-label='Slide 3')
               button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='3' aria-label='Slide 4')
-              button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='5' aria-label='Slide 5')
+              button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='4' aria-label='Slide 5')
+              button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='5' aria-label='Slide 6')
+              
             .carousel-inner
               .carousel-item.active
                 .row.justify-content-center
@@ -58,7 +79,7 @@
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row
+                    .row.py-5
                       .col-lg-4
                         .tarjeta--boton.color-primario.p-4
                           .row.justify-content-start.mb-3
@@ -87,12 +108,12 @@
                                 img(src='@/assets/curso/tema4/icon6.svg', alt='' style="width: 77px;")
                                     
                           h5 Preventa
-                          p.text-small Sed ut perspiciatis unde omnis iste natus error sit vtatem accusa ntium dol.
+                          p.text-small Son actividades que tienen como objetivo informar acerca de productos o servicios que dan a conocer o se venden antes de que estos sean entregados a los clientes.
                           
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row
+                    .row.py-5
                       .col-lg-4
                         .tarjeta--boton.color-primario.p-4
                           .row.justify-content-start.mb-3
@@ -126,7 +147,7 @@
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row
+                    .row.py-5
                       .col-lg-4
                         .tarjeta--boton.color-primario.p-4
                           .row.justify-content-start.mb-3
@@ -160,7 +181,7 @@
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row
+                    .row.justify-content-around.py-5
                       .col-lg-4
                         .tarjeta--boton.color-primario.p-4
                           .row.justify-content-start.mb-3
@@ -180,8 +201,6 @@
                                     
                           h5 Concertación de citas
                           p.text-small Se puede utilizar como complemento a la actividad comercial o según la necesidad y tipo de empresa que la utilice, como las del sector salud, cobros jurídicos, valoraciones, etc.
-                          
-                      
                 
             button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
               span.carousel-control-prev-icon(aria-hidden='true')

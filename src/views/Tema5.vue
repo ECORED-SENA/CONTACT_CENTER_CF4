@@ -17,7 +17,7 @@
                 :style="{'background-image': `url(${require('@/assets/curso/tema5/fondo-bloque.png')})`}")
               .bloque-cajon__texto.mb-xl-4
                 .p-4
-                  p.mb-0 Es claro que en todos los contact center, independiente de la naturaleza de su operación (outbound o inbound), se manejan flujos de información de clientes bastante altos, por esta razón, dichas empresas deben ajustarse a la normatividad vigente que regula el procesamiento, la actualización y la protección de la información de los clientes, por lo cual es importante dar una mirada a la normatividad vigente en Colombia.
+                  p.mb-0 Es claro que en todos los <i>contact center</i>, independiente de la naturaleza de su operación (outbound o inbound), se manejan flujos de información de clientes bastante altos, por esta razón, dichas empresas deben ajustarse a la normatividad vigente que regula el procesamiento, la actualización y la protección de la información de los clientes, por lo cual es importante dar una mirada a la normatividad vigente en Colombia.
           
         .row.justify-content-center.mb-5
           .col-7.col-lg-5.mb-4.mb-lg-0.align-self-center
@@ -72,13 +72,13 @@
         p.mb-4 El dar un tratamiento ético a los clientes, representa uno de los principios básicos de todas las organizaciones, es decir, que como se mencionó anteriormente, a partir de las políticas internas de la compañía se construyen esos pilares éticos que buscan generar credibilidad, confianza, respeto hacia los clientes como estrategia de empoderamiento y fidelidad del cliente hacia la marca y la empresa, sumando a ello el cumplimiento de la normatividad vigente que se encarga de velar porque cada uno de esos parámetros éticos se cumplan. 
         p.mb-4 La normatividad que rige para la aplicación de la mencionada ética empresarial es 
           b(style='color: #3E2EA6') la Ley 1582 de 2012.
-        p.mb-4 ahora, la 
+        p.mb-4 Ahora, la 
           b(style='color: #3E2EA6') autorización para el tratamiento de datos personales 
           b-none es el consentimiento que da cualquier persona para que las empresas o personas responsables del tratamiento de la información, puedan utilizar sus datos personales. La ley es clara cuando asegura que es necesario:
         .row.justify-content-center.mb-4
           .col-auto
             p.mb-0
-              b.etiqueta(style="background-color: #FCECDF; color: #3E2EA6;") “El consentimiento previo, expreso e informado del titular”.
+              b.etiqueta(style="background-color: #FCECDF; color: #3E2EA6;") “El consentimiento previo, expreso e informado del titular”
         p.mb-0 Es decir, que el dueño de la información apruebe y sepa para qué y cómo se utilizará dicha información. Además, tal autorización debe estar disponible para consultas posteriores.
           
       .col-8.col-lg-5.align-self-center

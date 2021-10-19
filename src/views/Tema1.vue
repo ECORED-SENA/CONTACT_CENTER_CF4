@@ -99,7 +99,7 @@
         AcordionA.mb-4.mb-md-0(tipo="b" clase-tarjeta="tarjeta tarjeta--morada")
           .row(titulo="Intangibilidad")
             .col-auto.mb-4.mb-md-0
-              p Hace referencia a que los servicios no se pueden tocar, no tienen olor, color textura o forma, por ejemplo: el servicio de salud, un seguro de vida, los servicios que prestan los Contact Center al suministrar información, los domicilios, el transporte, entre otros.
+              p Hace referencia a que los servicios no se pueden tocar, no tienen olor, color textura o forma, por ejemplo: el servicio de salud, un seguro de vida, los servicios que prestan los <i>Contact Center</i> al suministrar información, los domicilios, el transporte, entre otros.
             
           .row(titulo="Heterogeneidad")
             .col-auto.mb-4.mb-md-0

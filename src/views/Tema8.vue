@@ -19,10 +19,10 @@
             .bloque-texto-b.color-secundario.p-4
               .bloque-texto-b__texto
                 i.fas.fa-quote-left(style="color: #DAD6F7")
-                h4.mb-0 Lo que no se mide no se puede mejorar
+                h4.mb-0.text-white Lo que no se mide no se puede mejorar
                 i.fas.fa-quote-right(style="color: #DAD6F7")
               .bloque-texto-d__autor 
-                p.mb-0 - Peter Drucker
+                p.mb-0.text-white - Peter Drucker
         p.mb-4 La frase anterior es una reafirmación de la importancia que tienen los indicadores de gestión en las operaciones de <i>Contact Center BPO</i>, ya que estos son la herramienta más importante para determinar la eficiencia de la campaña y, al mismo tiempo, tomar decisiones sobre los resultados generados a través de los indicadores.
         p.mb-0 Las campañas de <i>Contact Center inbound</i>, manejan varios indicadores que permiten ver el desempeño tanto de los asesores como de la campaña en general desde un enfoque dirigido a los objetivos de la campaña e incluso de la organización, por lo que se mencionan los más relevantes para este tipo de operaciones.
       .col-9.col-sm-7.col-lg-5.align-self-center
@@ -120,7 +120,7 @@
           p(numero="7" titulo="TMO o TPC") Se trata del tiempo promedio de conversación con el cliente desde el momento en que lo saluda, hasta el momento que se despide, por lo general este tiempo esta predeterminado en la campaña y en la mayoría de los casos es en promedio de 4 minutos. 
           p(numero="8" titulo="% de ausentismo") Con este indicador se mide la cantidad de asesores ausentes durante el turno de gestión y permite aplicar las contingencias necesarias para evitar la afectación de los demás indicadores. 
           p(numero="9" titulo="Llamadas aceptadas") En términos generales corresponde a la cantidad de llamadas que entran al ACD y su resultado se obtiene de sumar el total de las llamadas contestadas más las llamadas abandonadas.
-          p(numero="10" titulo="Llamadas ofrecidas") Corresponde a todas las llamadas que ingresan al Contact Center y el resultado de obtiene de sumar las llamadas contestadas + las llamadas abandonadas + las llamadas desbordadas + llamadas bloqueadas. 
+          p(numero="10" titulo="Llamadas ofrecidas") Corresponde a todas las llamadas que ingresan al <i>Contact Center</i> y el resultado de obtiene de sumar las llamadas contestadas + las llamadas abandonadas + las llamadas desbordadas + llamadas bloqueadas. 
           p(numero="11" titulo="Llamadas desbordadas") Son todas las llamadas que ingresan al centro de contacto que por diferentes razones la operación no las puede atender, por lo que se redirecciona a otra operación para ser atendidas como parte de la aplicación de la contingencia y evitar afectar el nivel de servicio.
           
         

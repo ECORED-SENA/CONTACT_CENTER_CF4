@@ -206,7 +206,7 @@
   height: 355px
 .tarjeta--boton.color-primario:hover
   //background-color: #1d8b22
-  transform: scale(1.1)
+  //transform: scale(1.1)
 
 button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type='reset']:hover, [type='reset']:focus, [type='submit']:hover, [type='submit']:focus
   background-color: #1b526948
@@ -305,6 +305,45 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
   background-size: auto
   background-repeat: no-repeat
   
+/*
+.carousel-custom
+  width: 100%
+  overflow: scroll
+  padding: 30px
+  position: relative
+  white-space: 
+
+.carousel-custom__container
+  white-space: nowrap
+  margin: 70px 70px
+  padding-bottom: 10px
+
+.carousel-custom__item
+  background-color: #7ebbe4
+  width: 400px
+  height: 355px
+  border-radius: 20px
+  //overflow: hidden
+  margin-right: 10px
+  display: inline-block
+  cursor: pointer
+  transition: 450ms all
+  transform-origin: center left
+  position: relative
+  white-space: pre-wrap
+
+.carousel-custom__item:hover ~ .carousel-custom__item
+  transform: translate3d(50px, 0, 0)
+
+.carousel-custom__container:hover ~ .carousel-custom__item
+  opacity: 0.3
+
+.carousel-custom__container:hover .carousel-custom__item:hover
+  transform: scale(1.1)
+  opacity: 1
+  
+
+
 
 @media screen and ( max-width: 992px)
   .fondo-intro, .fondo-cajon8
@@ -366,6 +405,9 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
     left: 0
   .fondo1, .fondo2, .fondo5, .fondo-color5
     margin-inline: -1.4rem
+  .fondo2
+    background-size: cover
+    margin-inline: -1.4rem
   .fondo-color
     background-size: cover
     margin-inline: -1.4rem
@@ -421,6 +463,8 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
     justify-content: center
     border-top-right-radius: 20px
     border-bottom-left-radius: 20px
+  .fondo-slider2
+    background-size: cover
 
 
 

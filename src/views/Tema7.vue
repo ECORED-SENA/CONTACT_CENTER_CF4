@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 7
-      h1 Terminología y vocabulario propio del Contact Center BPO
+      h1 Terminología y vocabulario propio del <i>Contact Center</i> BPO
 
     .contenedor-total
       .contenedor-imagen
@@ -15,7 +15,7 @@
       .contenedor-text
         .row.mb-4.mb-lg-4
           .col-auto
-            p.mb-0 Cuando se trabaja o labora en operaciones de Contact Center BPO, es fácil notar cómo estas operaciones manejan su propia terminología y vocabulario que a simple vista no son fáciles de comprender; por ello se invita a conocer el vocabulario más utilizado en la industria.
+            p.mb-0 Cuando se trabaja o labora en operaciones de <i>Contact Center</i> BPO, es fácil notar cómo estas operaciones manejan su propia terminología y vocabulario que a simple vista no son fáciles de comprender; por ello se invita a conocer el vocabulario más utilizado en la industria.
         .row.justify-content-end
           .col-auto
             a.anexo.mb-4(:href="obtenerLink('/downloads/Terminologia.pdf')" target="_blank")

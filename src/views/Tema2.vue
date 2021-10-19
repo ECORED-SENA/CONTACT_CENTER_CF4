@@ -39,7 +39,7 @@
                 .row.align-items-center
                   .col-12
                     .h5.mb-3(style='color: #3E2EA6') ¿Qué reflejan los protocolos de servicio al cliente?
-                    p.mb-0 El conjunto de reglas que debe seguir el asesor de Contact Center BPO en cuanto a la forma de comunicación que debe mantener con el cliente, los procesos de la interacción dependiendo de la necesidad del cliente y el trato que debe mantener durante la interacción.
+                    p.mb-0 El conjunto de reglas que debe seguir el asesor de <i>Contact Center</i> BPO en cuanto a la forma de comunicación que debe mantener con el cliente, los procesos de la interacción dependiendo de la necesidad del cliente y el trato que debe mantener durante la interacción.
               
             .row.mb-3
               .col-auto
@@ -56,7 +56,7 @@
       
     .row.mb-4
       .col-lg-8
-        p.mb-0 En los departamentos de servicio al cliente de las organizaciones y dependiendo de su política interna, se pueden generar varios procesos que pueden estar enfocados según las diferentes necesidades de los clientes. Es así como en las empresas de Contact Center BPO sucede lo mismo; por ello, a continuación se presenta el protocolo que se debe aplicar en una interacción con cliente a través del canal telefónico.
+        p.mb-0 En los departamentos de servicio al cliente de las organizaciones y dependiendo de su política interna, se pueden generar varios procesos que pueden estar enfocados según las diferentes necesidades de los clientes. Es así como en las empresas de <i>Contact Center</i> BPO sucede lo mismo; por ello, a continuación se presenta el protocolo que se debe aplicar en una interacción con cliente a través del canal telefónico.
     
     .row.justify-content-center.mb-5
       .col-lg-8
