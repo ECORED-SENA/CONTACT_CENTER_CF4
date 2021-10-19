@@ -204,9 +204,11 @@
 .tarjeta--boton
   background-color: #DAD6F7
   height: 355px
+  width: 380px
 .tarjeta--boton.color-primario:hover
+  transition: all 0.5s
   //background-color: #1d8b22
-  //transform: scale(1.1)
+  transform: scale(1.05)
 
 button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type='reset']:hover, [type='reset']:focus, [type='submit']:hover, [type='submit']:focus
   background-color: #1b526948
@@ -305,10 +307,10 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
   background-size: auto
   background-repeat: no-repeat
   
-/*
+///start carousel/////////////
 .carousel-custom
   width: 100%
-  overflow: scroll
+  overflow: hidden
   padding: 30px
   position: relative
   white-space: 
@@ -342,6 +344,10 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
   transform: scale(1.1)
   opacity: 1
   
+///////end carousel////////////
+
+.carousel-control-next, .carousel-control-prev 
+  width: 8%
 
 
 
@@ -436,6 +442,7 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
     top: 102% !important
   .tarjeta--boton
     height: auto
+    width: auto
   .tarjeta--boton.color-primario:hover
     transform: scale(1.1)
 

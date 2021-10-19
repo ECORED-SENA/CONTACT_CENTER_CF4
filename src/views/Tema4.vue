@@ -24,7 +24,10 @@
                             
           .carousel-custom__item
             p.p-4  prueba
-                            
+            
+          .carousel-custom__item
+            p.p-4  prueba
+            
           
 
     
@@ -44,163 +47,164 @@
               .carousel-item.active
                 .row.justify-content-center
                   .col-lg-12
-                    .row.py-5
+                    .row.justify-content-center.py-5
 
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon1.svg', alt='' style="width: 77px;")
                                     
                           h5 Información general
-                          p.text-small Los usuarios o clientes suelen llamar por diferentes motivos como dirección y horarios de oficinas o puntos de venta, precios, características de productos o servicios, etc.
+                          p Los usuarios o clientes suelen llamar por diferentes motivos como dirección y horarios de oficinas o puntos de venta, precios, características de productos o servicios, etc.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon2.svg', alt='' style="width: 77px;")
                                     
                           h5 Soporte técnico
-                          p.text-small Es el servicio que prestan empresas que comercializan productos o servicios que requieren atención especial en cuanto a manejo de estos y solución a posibles inconvenientes, utilización o fallas técnicas. 
+                          p Es el servicio que prestan empresas que comercializan productos o servicios que requieren atención especial en cuanto a manejo de estos y solución a posibles inconvenientes, utilización o fallas técnicas. 
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon3.svg', alt='' style="width: 77px;")
                                     
                           h5 PQRS
-                          p.text-small Peticiones, quejas, reclamos, sugerencias o felicitaciones: son los inconvenientes que tienen los usuarios o clientes con las empresas que les suministraron algún producto o servicio y dependiendo del tipo de solicitud se le debe dar el respectivo manejo y tiempo de respuesta.
+                          p Peticiones, quejas, reclamos, sugerencias o felicitaciones: son los inconvenientes que tienen los usuarios o clientes con las empresas que les suministraron algún producto o servicio y dependiendo del tipo de solicitud se le debe dar el respectivo manejo y tiempo de respuesta.
                           
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row.py-5
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                    .row.justify-content-center.py-5
+
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon4.svg', alt='' style="width: 77px;")
                                     
                           h5 Toma de pedidos
-                          p.text-small Las empresas utilizan estrategias de promoción y publicidad que son acompañadas por las líneas de venta telefónica, dando a conocer sus productos y ofertas, cuando los clientes potenciales llaman son atendidos con el propósito que adquieran las promociones que fueron publicitadas u ofertadas por dichos medios.
+                          p Las empresas utilizan estrategias de promoción y publicidad que son acompañadas por las líneas de venta telefónica, dando a conocer sus productos y ofertas, cuando los clientes potenciales llaman son atendidos con el propósito que adquieran las promociones que fueron publicitadas u ofertadas por dichos medios.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon5.svg', alt='' style="width: 77px;")
                                     
                           h5 Agendamiento de citas
-                          p.text-small Estas líneas son muy utilizadas por empresas del sector de la salud para atender altos volúmenes de llamadas para pacientes o usuarios de sus servicios.
+                          p Estas líneas son muy utilizadas por empresas del sector de la salud para atender altos volúmenes de llamadas para pacientes o usuarios de sus servicios.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon6.svg', alt='' style="width: 77px;")
                                     
                           h5 Preventa
-                          p.text-small Son actividades que tienen como objetivo informar acerca de productos o servicios que dan a conocer o se venden antes de que estos sean entregados a los clientes.
+                          p Son actividades que tienen como objetivo informar acerca de productos o servicios que dan a conocer o se venden antes de que estos sean entregados a los clientes.
                           
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row.py-5
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                    .row.justify-content-center.py-5
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon7.svg', alt='' style="width: 77px;")
                                     
                           h5 Promoción de portafolio
-                          p.text-small Su objetivo es dar a conocer empresas, productos o servicios a clientes potenciales.
+                          p Su objetivo es dar a conocer empresas, productos o servicios a clientes potenciales.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon8.svg', alt='' style="width: 77px;")
                                     
                           h5 Televentas
-                          p.text-small Muchas empresas comercializan productos y/o servicios contactando a sus clientes de forma proactiva.
+                          p Muchas empresas comercializan productos y/o servicios contactando a sus clientes de forma proactiva.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon9.svg', alt='' style="width: 77px;")
                                     
                           h5 Cobranza
-                          p.text-small Es la actividad donde se recupera el dinero que las empresas tienen pendiente por cobro, cuando realizan ventas a plazos. Es la actividad que completa el ciclo de la venta, para que el cliente compre nuevamente.
+                          p Es la actividad donde se recupera el dinero que las empresas tienen pendiente por cobro, cuando realizan ventas a plazos. Es la actividad que completa el ciclo de la venta, para que el cliente compre nuevamente.
                           
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row.py-5
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                    .row.justify-content-center.py-5
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon10.svg', alt='' style="width: 77px;")
                                     
                           h5 Seguimiento
-                          p.text-small Se da cuando es necesario realizar varios contactos con los mismos usuarios para lograr objetivos de ventas, cobranza, servicios posventa o soporte técnico. Requiere de un sistema muy organizado y tecnológico para reagendar las llamadas para los contactos futuros.
+                          p Se da cuando es necesario realizar varios contactos con los mismos usuarios para lograr objetivos de ventas, cobranza, servicios posventa o soporte técnico. Requiere de un sistema muy organizado y tecnológico para reagendar las llamadas para los contactos futuros.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon11.svg', alt='' style="width: 77px;")
                                     
                           h5 Actualización de bases de datos
-                          p.text-small Actividad muy importante para las empresas que requieren tener información constantemente actualizada de sus clientes para garantizar el éxito de las diferentes campañas que realicen.
+                          p Actividad muy importante para las empresas que requieren tener información constantemente actualizada de sus clientes para garantizar el éxito de las diferentes campañas que realicen.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon12.svg', alt='' style="width: 77px;")
                                     
                           h5 Prospección
-                          p.text-small Consiste en la búsqueda de clientes para alimentar las bases de datos con clientes potenciales que cumplan con el perfil acorde con su tipo de productos o servicios ofrecidos.
+                          p Consiste en la búsqueda de clientes para alimentar las bases de datos con clientes potenciales que cumplan con el perfil acorde con su tipo de productos o servicios ofrecidos.
                           
               .carousel-item
                 .row.justify-content-center
                   .col-lg-12
-                    .row.justify-content-around.py-5
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                    .row.justify-content-center.py-5
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon13.svg', alt='' style="width: 77px;")
                                     
                           h5 Sondeos, investigaciones o encuestas
-                          p.text-small Esta actividad se utiliza para conocer la opinión de los clientes reales o potenciales con diferentes objetivos comerciales para las empresas.
+                          p Esta actividad se utiliza para conocer la opinión de los clientes reales o potenciales con diferentes objetivos comerciales para las empresas.
                           
-                      .col-lg-4
-                        .tarjeta--boton.color-primario.p-4
+                      .col-10.col-sm-10.col-lg-4.mb-4.mb-lg-0
+                        .tarjeta--boton.color-primario.p-4.mx-auto
                           .row.justify-content-start.mb-3
                             .col-7
                               figure
                                 img(src='@/assets/curso/tema4/icon14.svg', alt='' style="width: 77px;")
                                     
                           h5 Concertación de citas
-                          p.text-small Se puede utilizar como complemento a la actividad comercial o según la necesidad y tipo de empresa que la utilice, como las del sector salud, cobros jurídicos, valoraciones, etc.
+                          p Se puede utilizar como complemento a la actividad comercial o según la necesidad y tipo de empresa que la utilice, como las del sector salud, cobros jurídicos, valoraciones, etc.
                 
             button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
               span.carousel-control-prev-icon(aria-hidden='true')
