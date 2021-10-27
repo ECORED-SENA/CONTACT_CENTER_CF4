@@ -53,7 +53,7 @@
               .col-auto
                 .p-3(style='background-color: #DAD6F7')
                   h5.mb-0(style='color: #3E2EA6') Ofensivo
-            p.mb-4 El comportamiento de este cliente es similar al del cliente agresivo, con la particularidad que raras vez levantan la voz, en algunos casos la forma de lanzar sus ofensas son un tanto diplomáticas, pero displicentes, disfruta ofendiendo a su interlocutor poniendo en tela de juicio su inteligencia, les gusta humillar.            p
+            p.mb-4 El comportamiento de este cliente es similar al del cliente agresivo, con la particularidad que raras vez levantan la voz, en algunos casos la forma de lanzar sus ofensas son un tanto diplomáticas, pero displicentes, disfruta ofendiendo a su interlocutor poniendo en tela de juicio su inteligencia, les gusta humillar.
             p.mb-4 Para su manejo se recomienda en primera instancia no dejarse afectar por las ofensas de este cliente, se debe tener en cuenta que el cliente está molesto con la compañía por lo cual nada es personal, se le debe permitir manifestar su pensamiento. 
             p El asesor debe reflejar serenidad, pero mantenerse siempre en su posición y no permitir que los comentarios del cliente afecten la gestión que se debe realizar en la interacción.
           .col-10.col-md-5

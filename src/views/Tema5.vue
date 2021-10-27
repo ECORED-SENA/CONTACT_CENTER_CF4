@@ -17,7 +17,7 @@
                 :style="{'background-image': `url(${require('@/assets/curso/tema5/fondo-bloque.png')})`}")
               .bloque-cajon__texto.mb-xl-4
                 .p-4
-                  p.mb-0 Es claro que en todos los <i>contact center</i>, independiente de la naturaleza de su operación (outbound o inbound), se manejan flujos de información de clientes bastante altos, por esta razón, dichas empresas deben ajustarse a la normatividad vigente que regula el procesamiento, la actualización y la protección de la información de los clientes, por lo cual es importante dar una mirada a la normatividad vigente en Colombia.
+                  p.mb-0 Es claro que en todos los <i>contact center</i>, independiente de la naturaleza de su operación (<i>outbound</i> o <i>inbound</i>), se manejan flujos de información de clientes bastante altos, por esta razón, dichas empresas deben ajustarse a la normatividad vigente que regula el procesamiento, la actualización y la protección de la información de los clientes, por lo cual es importante dar una mirada a la normatividad vigente en Colombia.
           
         .row.justify-content-center.mb-5
           .col-7.col-lg-5.mb-4.mb-lg-0.align-self-center
@@ -115,18 +115,18 @@
             .row.mb-4
               .col-auto
                 .p-2(style='background-color: #dad6f7')
-                  h5.mb-0 Ley de Habeas Data
-            p.mb-4 La Ley 1266 del 2008, más conocida como ley habeas data, tiene como objeto desarrollar el derecho constitucional que tienen todos los colombianos de conocer, actualizar y rectificar la información que se haya recogido sobre ellos en bancos de datos y los demás derechos, libertades y garantías constitucionales relacionadas con la recolección tratamiento y circulación de datos personales a que se refiere el artículo 15 de la Constitución Política; así como, el derecho a la información establecido en el artículo 20 de la Constitución Política particularmente en relación con la información financiera y crediticia, comercial de servicios y la proveniente de terceros (Ley 1266 del 31 de diciembre de 2008).
+                  h5.mb-0 Ley de <i>Habeas Data</i>
+            p.mb-4 La Ley 1266 del 2008, más conocida como ley <i>habeas data</i>, tiene como objeto desarrollar el derecho constitucional que tienen todos los colombianos de conocer, actualizar y rectificar la información que se haya recogido sobre ellos en bancos de datos y los demás derechos, libertades y garantías constitucionales relacionadas con la recolección tratamiento y circulación de datos personales a que se refiere el artículo 15 de la Constitución Política; así como, el derecho a la información establecido en el artículo 20 de la Constitución Política particularmente en relación con la información financiera y crediticia, comercial de servicios y la proveniente de terceros (Ley 1266 del 31 de diciembre de 2008).
             p.mb-4 De acuerdo con el artículo 2° de la misma Ley, esta aplica a todos los datos de información personal registrados en banco de datos y que sean administrados ya sea por entidades públicas o privadas, exceptuando a los datos mantenidos en el ámbito personal o doméstico o que circulan internamente.
             
           .col-8.col-lg-5.align-self-center
             figure(data-aos="fade-left")
               img.mx-auto(src='@/assets/curso/tema5/img5.png' alt='Imagen ambiental' style='width: 500px;')
     
-    p.mb-5 En el artículo 3° de la Ley 1266 de 2008 se establecen las definiciones de los actores de la Ley Habeas Data, así como sus deberes y derechos que serán resumidos en la siguiente tabla: 
+    p.mb-5 En el artículo 3° de la Ley 1266 de 2008 se establecen las definiciones de los actores de la Ley <i>Habeas Data</i>, así como sus deberes y derechos que serán resumidos en la siguiente tabla: 
     
     .titulo-sexto.color-primario
-      p.mb-0 Actores en la ley habeas data 
+      p.mb-0 Actores en la ley <i>habeas data </i>
 
     .tabla-a.color-primario.mb-5 
       table
@@ -140,7 +140,7 @@
           tr
             td Titular de la informaci&oacute;n 
             td
-              | Es la persona natural o jur&iacute;dica de quien se refiere la informaci&oacute;n que se encuentra en el banco de datos y sujeto al derecho de Habeas Data.
+              | Es la persona natural o jur&iacute;dica de quien se refiere la informaci&oacute;n que se encuentra en el banco de datos y sujeto al derecho de <i>Habeas Data</i>.
             td - 
           tr
             td Fuente de la informaci&oacute;n 
@@ -159,7 +159,7 @@
             td
               | Corresponde a la persona o entidad que recibe los datos personales de varios titulares, los administra y los pone en conocimiento de los usuarios bajo los par&aacute;metros de la ley, por ejemplo, Datacr&eacute;dito y Cifin.
             td
-              | - Garantizar en todo momento al titular de la informaci&oacute;n el ejercicio del derecho del Habeas Data. 
+              | - Garantizar en todo momento al titular de la informaci&oacute;n el ejercicio del derecho del <i>Habeas Data</i>. 
               br
               | - Garantizar que en la recolecci&oacute;n, tratamiento y circulaci&oacute;n de datos se respeten los dem&aacute;s derechos consagrados en la ley. 
               br
@@ -181,7 +181,7 @@
               br
               | - Deben informar a los titulares sobre la utilizaci&oacute;n que se le est&aacute; dando a la informaci&oacute;n.
 
-    p.mb-5 Después de haber revisado los actores o participantes en la Ley Habeas Data y en donde, según su significado, parametriza la utilización de los datos de las demás personas, es importante mirar detalladamente a qué datos hace referencia la ley.
+    p.mb-5 Después de haber revisado los actores o participantes en la Ley <i>Habeas Data</i> y en donde, según su significado, parametriza la utilización de los datos de las demás personas, es importante mirar detalladamente a qué datos hace referencia la ley.
 
     .row.justify-content-center
       .col-lg-8.mb-4.mb-lg-0.align-self-center

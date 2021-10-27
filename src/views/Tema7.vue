@@ -30,7 +30,7 @@
             th 
               h4.mb-0 ACD 
             td
-              | Abreviatura de &ldquo;Automatic Call Distribution&rdquo;, es decir, distribuidor autom&aacute;tico de llamadas. Es el dispositivo f&iacute;sico que realiza las funciones de distribuci&oacute;n de llamadas a grupos de atenci&oacute;n.
+              | Abreviatura de "Automatic Call Distribution", es decir, distribuidor autom&aacute;tico de llamadas. Es el dispositivo f&iacute;sico que realiza las funciones de distribuci&oacute;n de llamadas a grupos de atenci&oacute;n.
           tr
             th 
               h4.mb-0 Agente teleoperador
@@ -43,34 +43,34 @@
               | Identificador autom&aacute;tico del n&uacute;mero telef&oacute;nico desde donde se comunica el cliente.
           tr
             th 
-              h4.mb-0 Browser
+              h4.mb-0 <i>Browser</i>
             td (Navegador) Programa utilizado para acceder a p&aacute;ginas de Internet.
           tr
             th 
-              h4.mb-0 Call blending
+              h4.mb-0 <i>Call blending</i>
             td
               | Intercambio autom&aacute;tico de entrada y salida en el mismo centro telef&oacute;nico, hace referencia a las campa&ntilde;as en donde se hacen y se reciben llamadas.
           tr
             th 
-              h4.mb-0 CTI computer
+              h4.mb-0 CTI <i>computer</i>
             td
-              | Computer Telephony Integration. Integraci&oacute;n de Telefon&iacute;a y C&oacute;mputo, integraci&oacute;n de voz y datos, funciona cuando entra la llamada y autom&aacute;ticamente en la pantalla del asesor aparece la informaci&oacute;n del cliente.
+              | <i>Computer Telephony Integration</i>. Integraci&oacute;n de Telefon&iacute;a y C&oacute;mputo, integraci&oacute;n de voz y datos, funciona cuando entra la llamada y autom&aacute;ticamente en la pantalla del asesor aparece la informaci&oacute;n del cliente.
           tr
             th 
-              h4.mb-0 Inbound
-            td Contacto de entradas recibidas en el Call center y Contact Center. 
+              h4.mb-0 <i>Inbound</i>
+            td Contacto de entradas recibidas en el <i>Call Center</i> y <i>Contact Center</i>. 
           tr
             th 
-              h4.mb-0 Outbound
+              h4.mb-0 <i>Outbound</i>
             td Llamadas de salida emitidas por el centro telef&oacute;nico a clientes y/o prospectos.
           tr
             th 
-              h4.mb-0 Holdtime
+              h4.mb-0 <i>Hold time</i>
             td
               | Tiempo total en que las llamadas que est&aacute;n siendo atendidas por el teleoperador quedan en espera.
           tr
             th 
-              h4.mb-0 Skill
+              h4.mb-0 <i>Skill</i>
             td
               | La traducci&oacute;n no literal de &ldquo;Grupos de atenci&oacute;n&rdquo;. Es una asignaci&oacute;n l&oacute;gica definida en el ACD, donde pueden obtenerse informaci&oacute;n de control seguimiento de la campa&ntilde;a asociada a este grupo de personas que atienden el servicio asociado.
           tr
@@ -79,38 +79,38 @@
             td Tiempo medio para descansos, refrigerios, capacitaci&oacute;n y otros.
           tr
             th
-              h4 Script
+              h4 <i>Script</i>
               h4 Guion
             td
               | Guion establecido que utiliza el representante para guiar y establecer el di&aacute;logo con el usuario.
           tr
             th 
-              h4.mb-0 Text chat
+              h4.mb-0 <i>Text chat</i>
             td Intercambio din&aacute;mico de texto en tiempo real.
           tr
             th 
               h4.mb-0 IVR
-            td Interactive &Oacute;bice Response. Respuesta Interactiva de Voz.
+            td <i>Interactive Voice Response</i>. Respuesta Interactiva de Voz.
           tr
             th 
               h4.mb-0 CMS
-            td Call Management System. Sistema de Administraci&oacute;n de llamadas en el Call center.
+            td <i>Call Management System</i>. Sistema de Administraci&oacute;n de llamadas en el <i>Call center</i>.
           tr
             th 
               h4.mb-0 Contacto
             td
-              | Cuando hay respuesta al otro lado del tel&eacute;fono, t&eacute;rmino utilizado para campa&ntilde;as outbound.
+              | Cuando hay respuesta al otro lado del tel&eacute;fono, t&eacute;rmino utilizado para campa&ntilde;as <i>outbound</i>.
           tr
             th 
               h4.mb-0 Contacto efectivo
             td Cumplimiento del objetivo de la campa&ntilde;a.
           tr
             th 
-              h4.mb-0 Loging
-            td Contrase&ntilde;a de ingreso al sistema.
+              h4.mb-0 <i>Login</i>
+            td El acto de acceder a un sistema o servicio informático.
           tr
             th 
-              h4.mb-0 Ofim&aacute;tico
+              h4.mb-0 Ofimático
             td
               | La ofim&aacute;tica es el conjunto de t&eacute;cnicas y herramientas inform&aacute;ticas que se utilizan en la oficina. Suelen poseer herramientas como procesadores de texto, hojas de c&aacute;lculos, bases de datos, presentaciones, etc.
           tr
@@ -147,7 +147,7 @@
             th 
               h4.mb-0 Crm
             td
-              | (Customer Relationship Management (CRM), es un concepto enfocado a administrar las relaciones de una empresa con todos sus clientes, es decir compartir con efectividad la informaci&oacute;n entre los puntos de contacto de las diferentes &aacute;reas espec&iacute;ficas que interact&uacute;an con el cliente como: ventas, mercadotecnia, atenci&oacute;n a clientes, servicios, etc.
+              | <i>Customer Relationship Management</i> (CRM), es un concepto enfocado a administrar las relaciones de una empresa con todos sus clientes, es decir compartir con efectividad la informaci&oacute;n entre los puntos de contacto de las diferentes &aacute;reas espec&iacute;ficas que interact&uacute;an con el cliente como: ventas, mercadotecnia, atenci&oacute;n a clientes, servicios, etc.
           tr
             th 
               h4.mb-0 Enrutamiento
@@ -175,33 +175,32 @@
               | Disponer del n&uacute;mero de agentes adecuado es vital para el rendimiento de un Centro de Llamadas. Si el n&uacute;mero de agentes es menor del necesario, los tiempos de espera se alargar&aacute;n inaceptablemente; por el contrario, si disponemos de m&aacute;s &apos;staff&apos; del necesario, los costes se disparar&aacute;n.
           tr
             th 
-              h4.mb-0 Call center
+              h4.mb-0 <i>Call center</i>
             td
-              | Son &aacute;reas encargadas de recibir y/o efectuar contactos telef&oacute;nicos con clientes, lo hacen de manera sistematizada y ordenada, apoyadas en tecnolog&iacute;a y personal altamente capacitado.
-              br
-              | Son &aacute;reas estrat&eacute;gicas encargadas de recibir y/o efectuar contactos virtuales con clientes, lo hacen de manera sistematizada y ordenada, apoyadas en tecnolog&iacute;a de punta y personal altamente capacitado.
+              p.mb-3 Son &aacute;reas encargadas de recibir y/o efectuar contactos telef&oacute;nicos con clientes, lo hacen de manera sistematizada y ordenada, apoyadas en tecnolog&iacute;a y personal altamente capacitado.
+              
+              p Son &aacute;reas estrat&eacute;gicas encargadas de recibir y/o efectuar contactos virtuales con clientes, lo hacen de manera sistematizada y ordenada, apoyadas en tecnolog&iacute;a de punta y personal altamente capacitado.
           tr
             th 
-              h4.mb-0 Contact center
+              h4.mb-0 <i>Contact center</i>
             td
-              | Son &aacute;reas estrat&eacute;gicas encargadas de recibir y/o efectuar contactos virtuales con clientes, lo hacen de manera sistematizada y ordenada, apoyadas en tecnolog&iacute;a de punta y personal altamente capacitado.
-              br
-              | Es la evoluci&oacute;n del Call Center tradicional (telefon&iacute;a) a un centro de interacci&oacute;n virtual que integra todos los medios Interactivos de comunicaci&oacute;n (internet).
+              p.mb-3 Son &aacute;reas estrat&eacute;gicas encargadas de recibir y/o efectuar contactos virtuales con clientes, lo hacen de manera sistematizada y ordenada, apoyadas en tecnolog&iacute;a de punta y personal altamente capacitado.
+              p Es la evoluci&oacute;n del <i>Call Center</i> tradicional (telefon&iacute;a) a un centro de interacci&oacute;n virtual que integra todos los medios Interactivos de comunicaci&oacute;n (internet).
           tr
             th 
-              h4.mb-0 Out sourcing
+              h4.mb-0 <i>Outsourcing</i>
             td
               | Es la utilizaci&oacute;n de los servicios especializados de un tercero quien representa a la empresa o instituci&oacute;n contratante y que cuenta con infraestructura f&iacute;sica y tecnol&oacute;gica para ejecutar y recepcionar llamadas o contactos virtuales con cliente.
           tr
             th 
-              h4.mb-0 In house
+              h4.mb-0 <i>In house</i>
             td
-              | Es la utilizaci&oacute;n y administraci&oacute;n de infraestructura propia de Contact Center con el fin de soportar y gestionar las llamadas o contactos virtuales con los clientes de la misma compa&ntilde;&iacute;a.
+              | Es la utilizaci&oacute;n y administraci&oacute;n de infraestructura propia de <i>Contact Center</i> con el fin de soportar y gestionar las llamadas o contactos virtuales con los clientes de la misma compa&ntilde;&iacute;a.
           tr
             th 
-              h4.mb-0 In sourcing
+              h4.mb-0 <i>Insourcing</i>
             td
-              | Es la utilizaci&oacute;n de infraestructura propia de Contact Center contratando los servicios especializados de un tercero quien administra el recurso humano y tecnol&oacute;gico con el fin de soportar y gestionar las relaciones con los clientes de la misma compa&ntilde;&iacute;a.
+              | Es la utilizaci&oacute;n de infraestructura propia de <i>Contact Center</i> contratando los servicios especializados de un tercero quien administra el recurso humano y tecnol&oacute;gico con el fin de soportar y gestionar las relaciones con los clientes de la misma compa&ntilde;&iacute;a.
           tr
             th 
               h4.mb-0 Campa&ntilde;a
@@ -210,7 +209,7 @@
             th 
               h4.mb-0 Marcador predictivo
             td
-              | Es un sistema de marcaci&oacute;n que genera contactos de outbound de manera autom&aacute;tica y selectiva, permitiendo reducir el n&uacute;mero de agentes y realizar una mayor cantidad de intentos de contacto, garantizando mejores niveles de efectividad y tiempos de respuesta m&aacute;s oportunos. Existen cuatro (4) modalidades de marcaci&oacute;n:
+              | Es un sistema de marcaci&oacute;n que genera contactos de <i>outbound</i> de manera autom&aacute;tica y selectiva, permitiendo reducir el n&uacute;mero de agentes y realizar una mayor cantidad de intentos de contacto, garantizando mejores niveles de efectividad y tiempos de respuesta m&aacute;s oportunos. Existen cuatro (4) modalidades de marcaci&oacute;n:
               br
               | Predictiva (analiza tiempos).
               br

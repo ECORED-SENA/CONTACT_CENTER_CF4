@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Servicio al cliente',
     descripcionCurso:
-      'A través de este componente formativo el aprendiz debe apropiar los elementos y conceptos necesarios relacionados con servicio al cliente en Contact Center BPO, todos sus procesos y características, que le permitan afianzar habilidades y destrezas que garanticen interacciones exitosas con clientes a través de los diferentes canales propios de este sector.',
+      'A través de este componente formativo el aprendiz debe apropiar los elementos y conceptos necesarios relacionados con servicio al cliente en <i>Contact Center</i> BPO, todos sus procesos y características, que le permitan afianzar habilidades y destrezas que garanticen interacciones exitosas con clientes a través de los diferentes canales propios de este sector.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner.png'),
   },
@@ -66,7 +66,8 @@ export default {
         nombreRuta: 'tema7',
         icono: 'far fa-file-alt',
         numero: '7',
-        titulo: 'Terminología y vocabulario propio del Contact Center BPO',
+        titulo:
+          'Terminología y vocabulario propio del <i>Contact Center</i> BPO',
         desarrolloContenidos: true,
       },
       {
@@ -154,7 +155,7 @@ export default {
     {
       termino: 'Calidad',
       significado:
-        'conjunto de propiedades y características de un producto o servicio que le confiere la capacidad de satisfacer necesidades y expectativas del consumidor; tales propiedades o características pueden ser, por ejemplo, la presentación, la conservación, la durabilidad, el precio, la oportunidad de compra, el servicio de pre y post venta, la estética, la rapidez en el servicio, la buena atención, la variedad para escoger, etc.',
+        'conjunto de propiedades y características de un producto o servicio que le confiere la capacidad de satisfacer necesidades y expectativas del consumidor; tales propiedades o características pueden ser, por ejemplo, la presentación, la conservación, la durabilidad, el precio, la oportunidad de compra, el servicio de pre y postventa, la estética, la rapidez en el servicio, la buena atención, la variedad para escoger, etc.',
     },
     {
       termino: 'Campaña',
@@ -195,7 +196,7 @@ export default {
     {
       termino: 'Tiempo de conversación',
       significado:
-        'tiempo promedio que invierte un agente en cada llamada, una métrica común de rendimiento de call center. En general, se prefiere que el promedio de estos tiempos sea breve. No obstante, la combinación de promedios de tiempos de conversación breves y un índice bajo de resolución en la primera llamada son signo de que las llamadas no se están respondiendo satisfactoriamente.',
+        'tiempo promedio que invierte un agente en cada llamada, una métrica común de rendimiento de <i>call center</i>. En general, se prefiere que el promedio de estos tiempos sea breve. No obstante, la combinación de promedios de tiempos de conversación breves y un índice bajo de resolución en la primera llamada son signo de que las llamadas no se están respondiendo satisfactoriamente.',
     },
     {
       termino: 'Trazabilidad',
@@ -212,9 +213,7 @@ export default {
       texto:
         'Congreso de Colombia. (2020). Ley de protección de datos personales. ',
       tipo: 'PDF',
-      link:
-        'http://wsp.presidencia.gov.co/Normativa/Leyes/Documents/LEY%201581%20DEL%2017%20DE%20OCTUBRE%20DE%202012.pdf',
-      //descarga: '/downloads/Ley1266.pdf',
+      descarga: '/downloads/LEY1581.pdf',
     },
     {
       texto:

@@ -76,7 +76,7 @@
               img.mx-auto(src='@/assets/curso/tema8/img7.png' alt='Imagen ambiental' style='width: 500px')
               
           .col-md-5.align-self-center
-            h4.mb-4.text-white FCR First Call Resolution
+            h4.mb-4.text-white FCR <i>First Call Resolution</i>
             p.text-white Significa solución de la necesidad del cliente en el primer contacto, tiene como principal objetivo que el cliente no tenga que generar más de una interacción con un asesor para la misma necesidad; además, es un indicador que permite analizar el nivel de satisfacción del cliente al comunicarse con el área de servicio al cliente, al mismo tiempo que permite ver el porcentaje de efectividad de los asesores.
             
         .row.justify-content-center
@@ -86,7 +86,7 @@
               
           .col-md-5.align-self-center
             h4.mb-4.text-white Calidad del monitoreo de la gestión 
-            p.text-white.mb-4 Este indicador corresponde al resultado obtenido por el asesor al momento de ser monitoreado. Esta evaluación se realiza a través de un instrumento de evaluación denominado “Matriz de calidad” que mide las habilidades comunicativas, la actitud del asesor con el cliente y el manejo y la solución brindada al cliente; el rango de valoración es de 100% y contempla errores fatales o críticos, de acuerdo con los estándares de calidad.
+            p.text-white.mb-4 Este indicador corresponde al resultado obtenido por el asesor al momento de ser monitoreado. Esta evaluación se realiza a través de un instrumento de evaluación denominado “Matriz de calidad” que mide las habilidades comunicativas, la actitud del asesor con el cliente y el manejo y la solución brindada al cliente; el rango de valoración es de 100 % y contempla errores fatales o críticos, de acuerdo con los estándares de calidad.
             .row
               .col-auto
                 a.anexo.mb-4(:href="obtenerLink('/downloads/Matriz_calidad_SAC.xlsx')" target="_blank")
@@ -98,12 +98,12 @@
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-md-0
         LineaTiempoD.color-secundario
-          p.text-small(numero="1" titulo="Nivel de atención") El indicador hace referencia a todas las llamadas que entraron a la línea de servicio al cliente vs. las llamadas que fueron contestadas por un asesor o por el IVR.
-          p(numero="2" titulo="Nivel de abandono") Hace referencia a todas las llamadas que estuvieron en espera de atención ya sea por el asesor o por el IVR y que al recibir atención fueron colgadas por el cliente, se mide por la siguiente fórmula.
+          p(numero="1" titulo="Nivel de atención") El indicador hace referencia a todas las llamadas que entraron a la línea de servicio al cliente vs. las llamadas que fueron contestadas por un asesor o por el IVR.
+          p(numero="2" titulo="Nivel de abandono") Hace referencia a todas las llamadas que estuvieron en espera de atención ya sea por el asesor o por el IVR y que al recibir atención fueron colgadas por el cliente.
           p(numero="3" titulo="% de efectividad") Corresponde a la cantidad de contactos con los que se cumplió el objetivo de la llamada, por ejemplo, cuando el cliente se comunica a solicitar información y se solución la necesidad en ese primer contacto.
-          p(numero="4" titulo="% de contactabilidad") Este indicador aplica para servicios outbound y tiene que ver con la cantidad de contactos efectivos vs. la cantidad de contactos cargada en la base de datos. 
+          p(numero="4" titulo="% de contactabilidad") Este indicador aplica para servicios <i>outbound</i> y tiene que ver con la cantidad de contactos efectivos vs. la cantidad de contactos cargada en la base de datos. 
           p(numero="5" titulo="% de ocupación de agentes") Mide el tiempo real de ocupación de un asesor, es decir contabiliza el tiempo en que el asesor estuvo interactuando con los clientes durante su turno de trabajo, este indicador permite determinar si el dimensionamiento realizado fue correcto respecto al tráfico de llamadas atendidas.
-          p(numero="6" titulo="Adherencia al turno") Este indicador mide el tiempo de cumplimiento del turno de los asesores desde el momento de realizar el login hasta cuando realiza el logout, es decir desde el inicio hasta la finalización del turno de trabajo.
+          p(numero="6" titulo="Adherencia al turno") Este indicador mide el tiempo de cumplimiento del turno de los asesores desde el momento de realizar el <i>login</i> hasta cuando realiza el <i>logout</i>, es decir desde el inicio hasta la finalización del turno de trabajo.
         
       .col-6.col-lg-6
         figure(data-aos="fade-left")
@@ -117,10 +117,10 @@
         
       .col-lg-6
         LineaTiempoD.color-secundario
-          p(numero="7" titulo="TMO o TPC") Se trata del tiempo promedio de conversación con el cliente desde el momento en que lo saluda, hasta el momento que se despide, por lo general este tiempo esta predeterminado en la campaña y en la mayoría de los casos es en promedio de 4 minutos. 
+          p(numero="7" titulo="TMO o TPC") Se trata del tiempo promedio de conversación con el cliente desde el momento en que lo saluda, hasta el momento que se despide, por lo general este tiempo está predeterminado en la campaña y en la mayoría de los casos es en promedio de 4 minutos. 
           p(numero="8" titulo="% de ausentismo") Con este indicador se mide la cantidad de asesores ausentes durante el turno de gestión y permite aplicar las contingencias necesarias para evitar la afectación de los demás indicadores. 
           p(numero="9" titulo="Llamadas aceptadas") En términos generales corresponde a la cantidad de llamadas que entran al ACD y su resultado se obtiene de sumar el total de las llamadas contestadas más las llamadas abandonadas.
-          p(numero="10" titulo="Llamadas ofrecidas") Corresponde a todas las llamadas que ingresan al <i>Contact Center</i> y el resultado de obtiene de sumar las llamadas contestadas + las llamadas abandonadas + las llamadas desbordadas + llamadas bloqueadas. 
+          p(numero="10" titulo="Llamadas ofrecidas") Corresponde a todas las llamadas que ingresan al <i>Contact Center</i> y el resultado se obtiene de sumar las llamadas contestadas + las llamadas abandonadas + las llamadas desbordadas + llamadas bloqueadas. 
           p(numero="11" titulo="Llamadas desbordadas") Son todas las llamadas que ingresan al centro de contacto que por diferentes razones la operación no las puede atender, por lo que se redirecciona a otra operación para ser atendidas como parte de la aplicación de la contingencia y evitar afectar el nivel de servicio.
           
         

@@ -11,7 +11,7 @@
     .row.justify-content-center.mb-4
       .col-lg-7.mb-2
         p.mb-4 Cuando una persona visita un restaurante, una tienda, una heladería o un supermercado inconscientemente su principal expectativa está en poder adquirir o consumir un buen producto o servicio. Pero… ¿qué sucede cuando ese cliente está frente a uno de los mejores productos o servicios, pero no logra obtener respuesta acerca de las necesidades o inquietudes que tiene acerca del mismo? Seguramente su intención de compra o de consumo desaparece y preferirá buscar un producto o servicio similar en otra parte.
-        p.mb-4 El anterior ejemplo es solo una parte de los que representa un buen servicio al cliente y las consecuencias que puede dejar en ellos recibir una atención que cumpla o no con sus expectativas, por eso,
+        p.mb-4 El anterior ejemplo es solo una parte de los que representa un buen servicio al cliente y las consecuencias que puede dejar en ellos recibir una atención que cumpla o no con sus expectativas, por eso, 
           b(style='color: #3E2EA6; background-color: #FCECDF') el servicio al cliente es la actividad más importante y la que más se debe cuidar dentro de una organización, ya que por sí sola permite afianzar o dañar las relaciones con los clientes, ello, dependiendo de cómo el cliente sea atendido.
         p.mb-0 De acuerdo con lo que se mencionó anteriormente, en la actualidad el servicio al cliente y la atención de clientes han tomado gran importancia dentro de todas las organizaciones, puesto que genera un enorme impacto en el cumplimiento de los objetivos de las mismas.
       .col-10.col-lg-5.mb-2.align-self-center
@@ -89,7 +89,7 @@
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.pe-md-0.mb-5
           .bloque-texto-g__img( data-aos='fade-right')
           .bloque-texto-g__texto.p-5(data-aos='fade-left')
-            p.mb-4 Se concluye, entonces, que: el servicio al cliente está enfocado en ir más allá en cada una de las interacciones con cliente independiente del canal por donde se realice (presencial, teléfono, medios electrónicos), lo verdaderamente importante es que el asesor de servicio logre generar en el cliente experiencias estelares para que sienta mayor empoderamiento con la marca y con el producto y se convierta en un cliente fiel a la compañía.
+            p.mb-4 Se concluye, entonces, que: el servicio al cliente está enfocado en ir más allá en cada una de las interacciones con el cliente independiente del canal por donde se realice (presencial, teléfono, medios electrónicos), lo verdaderamente importante es que el asesor de servicio logre generar en el cliente experiencias estelares para que sienta mayor empoderamiento con la marca y con el producto y se convierta en un cliente fiel a la compañía.
 
 
     p.mb-4 Dentro de las características más destacas del servicio al cliente se encuentran las siguientes:
