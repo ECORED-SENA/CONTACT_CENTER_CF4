@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240.194" height="513" viewBox="0 0 1240.194 513">
+  <g id="fondo-slider8" transform="translate(-180 -883)">
+    <rect id="Rectángulo_35333" data-name="Rectángulo 35333" width="1240" height="513" transform="translate(180.193 883)" fill="#f5f4fd"/>
+    <g id="Rectángulo_35335" data-name="Rectángulo 35335" transform="translate(438.463 883)" fill="#3e2ea6" stroke="#707070" stroke-width="1">
+      <path d="M256,0H981.731a0,0,0,0,1,0,0V513a0,0,0,0,1,0,0H256A256,256,0,0,1,0,257v-1A256,256,0,0,1,256,0Z" stroke="none"/>
+      <path d="M256,.5H980.731a.5.5,0,0,1,.5.5V512a.5.5,0,0,1-.5.5H256A255.5,255.5,0,0,1,.5,257v-1A255.5,255.5,0,0,1,256,.5Z" fill="none"/>
+    </g>
+    <path id="Trazado_148903" data-name="Trazado 148903" d="M23.078-509.972A488.684,488.684,0,0,1,190.649-539.4c270.411,0,489.623,219.211,489.623,489.622q0,7.3-.221,14.55H435.982c.281-4.816.44-9.664.44-14.55,0-135.737-110.036-245.773-245.773-245.773a244.894,244.894,0,0,0-167.571,66Z" transform="translate(156.922 1431.231)" fill="#b8b1eb" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>
